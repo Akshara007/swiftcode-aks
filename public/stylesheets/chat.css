@@ -5,10 +5,17 @@ body {
     margin: 0px;
     overflow: hidden;
     background-color: #a9b8cc;
+    font-family: 'Annie Use Your Telescope',
+cursive;
+
 }
 
 #message-pane {
     background-color: #2183ce;
+    background-image: url("/assets/images/C2.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 #form-card {
